@@ -29,7 +29,7 @@ This particular repository contains the code that was uploaded to the Arduino to
 
 
 ## Photos
-<img src="https://raw.githubusercontent.com/yanimihaylov/Ricordi/master/Photos/IMG_6833.JPG" width="512" height="385" title="Completed"> <img src="https://github.com/yanimihaylov/Ricordi/blob/master/Photos/IMG_6779.JPG?raw=true" width="512" height="385" title="Setup"> <img src="https://github.com/yanimihaylov/Ricordi/blob/master/Photos/IMG_6767.JPG?raw=true" width="512" height="385" title="Design"> <img src="https://github.com/yanimihaylov/Ricordi/blob/master/Photos/IMG_6780.jpg?raw=true" width="512" height="385" title="Lights">
+<img src="https://raw.githubusercontent.com/yanimihaylov/Ricordi/master/Photos/IMG_6833.JPG" width="512" height="385" title="Completed"> <img src="https://github.com/yanimihaylov/Ricordi/blob/master/Photos/IMG_6779.JPG?raw=true" width="385" height="512" title="Setup"> <img src="https://github.com/yanimihaylov/Ricordi/blob/master/Photos/IMG_6767.JPG?raw=true" width="512" height="385" title="Design"> <img src="https://github.com/yanimihaylov/Ricordi/blob/master/Photos/IMG_6780.jpg?raw=true" width="512" height="385" title="Lights">
 
 
 
