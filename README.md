@@ -46,6 +46,11 @@ This particular repository contains the code that was uploaded to the Arduino to
 * Download [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 * Upload code to Arduino board
 * Wire connect lights, motion sensor and speaker to appropriate pins
+	* Red light - pin 5
+	* Green light - pin 6
+	* Blue light - pin 3
+	* Speaker - pin 13
+	* PIR sensor - pin 7
 * 9V power plug allows the LED to be brighter
 
 
