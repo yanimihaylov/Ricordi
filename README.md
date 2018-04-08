@@ -8,7 +8,6 @@ Table of contents
    * [About](#about)
    * [Features](#features)
    * [Photos](#photos)
-   * [Type of Beacon devices detected](#type-of-beacon-devices-detected)
    * [Getting Started](#getting-started)
       * [Prerequisites](#prerequisites)
       * [Deployment](#deployment)
@@ -23,7 +22,8 @@ This particular repository contains the code that was uploaded to the Arduino to
 
 
 ## Features
-- The Arduino can sense if an object crosses in front of the PIR sensor
+- The code includes notes and note durations for the sound
+- If the PIR sensor detects motion, the Arduino will first play a sound, then cycle through colors and fade slowly. The speed at which the color cycle is completed can be changed by modifying "fadespeed"
 - In this repository there are two songs that can be chosen
 - Lights can cycle throught all colors or simply pulsate with one color
 
@@ -42,13 +42,14 @@ This particular repository contains the code that was uploaded to the Arduino to
 - 9V power plug recommended 
 
 #### Deployment
+* Download [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 * Upload code to Arduino board
 * Wire connect lights, motion sensor and speaker to appropriate pins
 * 9V power plug allows the LED to be brighter
 
 
 ## Contact
-* [Yani Mihaylov](https://www.linkedin.com/in/yanimihaylov/) for questions about this repository
+* [Yani Mihaylov](https://www.linkedin.com/in/yani-mihaylov/) for questions about this repository
 
 ## License
 
